@@ -18,7 +18,9 @@
 
 ## _Экранная форма_
 
+<p align="center">
 <img title="" src="/Images/Screenshot.png" alt="Интерфейс приложения" data-align="center" width="300">
+</p>
 
 ## _Теоретическая часть_
 
@@ -29,7 +31,9 @@
 
 Пример: оригинальное изображение
 
+<p align="center">
 <img title="" src="/Images/original.png" alt="Оригинал" data-align="center" width="200">
+</p>
 
 #### _Белый гауссовский шум_
 
@@ -53,7 +57,9 @@ $$
 
 Пример:
 
+<p align="center">
 <img title="" src="/Images/Gauss(sigma50,persent50).png" alt="Белый гауссовский шум" data-align="center" width="200">
+</p>
 
 #### *Белый шум с равномерным распределением*
 
@@ -69,7 +75,9 @@ $$
 
 Пример:
 
+<p align="center">
 <img title="" src="/Images/White(param50,persent50).png" alt="Белый шум" data-align="center" width="200">
+</p>
 
 #### *Простой аддитивный шум*
 
@@ -77,7 +85,9 @@ $$
 
 Пример:
 
+<p align="center">
 <img title="" src="/Images/Additive(param50,persent50).png" alt="Аддитивный" data-align="center" width="200">
+</p>
 
 #### *Импульсный шум*
 
@@ -85,7 +95,9 @@ $$
 
 Пример:
 
+<p align="center">
 <img title="" src="/Images/Impulse(Sap,param50,persent50).png" alt="Импульсный" data-align="center" width="200">
+</p>
 
 #### *Цифровой шум*
 
@@ -97,4 +109,6 @@ $$
 
 Пример:
 
+<p align="center">
 <img title="" src="/Images/Digital(param50,persent50).png" alt="Цифровой" data-align="center" width="200">
+</p>
